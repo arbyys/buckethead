@@ -1,0 +1,20 @@
+hard pikes:
+
+#16   - The Boiling Pond 
+#20   - Thaw
+#23   - Telescape
+#24   - Slug Cartilage
+#25   - Pancake Heater
+#30   - Mannequin Cemetery
+#44   - You Can't Triple Stamp a Double Stamp
+#82   - Calamity Cabin
+#174  - Last House on Slunk Street
+#260  - Ferry to the Island of Lost Minds
+
+mid pikes:
+
+-
+
+slow pikes:
+
+-
