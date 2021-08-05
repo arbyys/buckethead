@@ -1,0 +1,37 @@
+   name                                       genre                          speed
+
+P  Bucketheadland                           - hard                         - fast
+-  Giant Robot                              - hard                         - fast
+-  The Day of the Robot                     - hard, DnB                    - fast
+*  Colma                                    - ambient                      - slow
+-  Monsters and Robots                      - hard                         - fast
+P  Somewhere Over the Slaughterhouse        - industrial, electronic       - mid
+-  Funnel Weaver                            - ?                            - ?
+P  Bermuda Triangle                         - electronic                   - mid
+*  Electric Tears                           - ambient                      - slow
+P  Bucketheadland 2                         - hard                         - fast
+P  Island of Lost Minds                     - hard                         - fast
+*  Population Override                      - rock                         - mid
+-  The Cuckoo Clocks of Hell                - hard                         - fast
+P  Enter the Chicken                        - hard, experimental           - fast
+-  Kaleidoscalp                             - hard, experimental           - fast
+-  Inbred Mountain                          - hard                         - fast
+-  The Elephant Man's Alarm Clock           - hard                         - fast
+*  Crime Slunk Scene                        - hard                         - fast
+-  Pepper's Ghost                           - melodic                      - fast
+-  Decoding the Tomb of Bansheebot          - ?                            - ?
+-  Cyborg Slunks                            - experimental                 - ?
+-  From the Coop                            - ?                            - ?
+-  Albino Slug                              - ?                            - ?
+-  Slaughterhouse on the Prairie            - hard                         - fast
+*  A Real Diamond in the Rough              - ambient                      - slow
+-  Forensic Follies                         - experimental                 - ?
+-  Needle in a Slunk Stack                  - experimental                 - ?
+*  Shadows Between the Sky                  - ambient                      - slow
+-  Spinal Clock                             - ?                            - ?
+P  Captain Eo's Voyage                      - rock                         - mid
+*  Electric Sea                             - ambient                      - slow
+
+
+*	must hear
+P	personal
